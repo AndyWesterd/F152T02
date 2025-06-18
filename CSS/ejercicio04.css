@@ -1,0 +1,52 @@
+body {
+    background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p1 {
+    width: 50%;
+    height: 30%;
+    border: solid 5px black;
+}
+
+.p2 {
+    width: 50%;
+    height: 30%;
+    border: dashed 5px rgb(199, 51, 51);
+}
+
+.p3 {
+    width: 50%;
+    height: 30%;
+    border: dotted 5px rgb(28, 228, 38);
+}
+
+.p4 {
+    width: 50%;
+    height: 30%;
+    border: groove 5px rgb(21, 176, 223);
+}
+
+.p5 {
+    width: 50%;
+    height: 30%;
+    border: ridge 5px rgb(74, 20, 221);
+}
+
+.p6 {
+    width: 50%;
+    height: 30%;
+    border: inset 5px rgb(190, 23, 121);
+}
+
+.p7 {
+    width: 50%;
+    height: 30%;
+    border: outset 5px rgb(247, 163, 7);
+}
+
+.p8 {
+    width: 50%;
+    height: 30%;
+    border: double 5px black;
+}
